@@ -23,7 +23,7 @@
         <img alt="Email"
         src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://x.com/soulcrancerdev" target="_blank"><img alt="Twitter"
+    <a href="https://x.com/intent/follow?screen_name=soulcrancerdev" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
 <!--      <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"

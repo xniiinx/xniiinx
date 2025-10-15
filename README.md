@@ -1,17 +1,33 @@
-<h1 align="center">
-[Blockchain | AI/ML | Full-Stack] <br/> <br/> 1.01^365 = 37.78 | 0.99^365 = 0.026
-  <h2 align="center">
-    <a href="mailto:misssilverbeauty0927@gmail.com", target="_blank">
-        <img width ="150px" height="38.5px" src="https://img.shields.io/badge/gmail-yellow?style=flat-square&logo=gmail&logoColor=white">
+<!--
+### ⭐Star & 🍴Fork
+-->
+<p align="center">
+  <h1 align="center">✩&emsp;Rust & Smart Contract Engineer&emsp;✩</h1>
+</p>
+<br>
+<p align="center">
+  Fullstack & ML Platform Infrastructure Specialist
+</p>
+
+</div>
+
+- ⚙️ Rust Developer | Smart Contracts & DeFi Protocols
+- 🚀 Fullstack & ML Platform Infrastructure Engineer
+- ✨ Blockchain Innovator | Onchain & Offchain Solutions
+- 💡 DeFi & AI Systems Architect
+
+<h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
+
+<div style={{display : flex ; justify-content : space-evenly}}> 
+    <a href="mailto:jwest951227@gmail.com" target="_blank">
+        <img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://x.com/soulcrancerdev", target="_blank">
-        <img width ="150px" height="38.5px" src="https://img.shields.io/badge/Twitter-red?style=flat-square&logo=x&logoColor=white">
+    <a href="https://x.com/soulcrancerdev" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
     </a>
-    <a href='https://wa.me/40747156969' target="_blank">
-        <img width ="152px" height="42px" src='https://img.shields.io/badge/Whatsapp-green?style=flat-square&logo=whatsapp&logoColor=white'>
-    </a>
-    <a href='https://t.me/soulcrancerdev' target="_blank">
-        <img width ="152px" height="41.5px" src='https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white&&color=0181FF'>
-    </a>
-  </h2>
-</h1>
+<!--      <a href="https://discordapp.com/users/471524111512764447" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>  -->
+    <a href="https://t.me/soulcrancerdev" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
